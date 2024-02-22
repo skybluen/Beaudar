@@ -1,6 +1,6 @@
 {
   "origins": [
-    "localhost:4000"
-    "skybluen.github.io"
+    "http://localhost:4000"
+    "https://skybluen.github.io"
   ]
 }
